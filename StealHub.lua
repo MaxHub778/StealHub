@@ -22,7 +22,7 @@ local Hubs = {
 
     {
         Name = "Dupe Brainrot",
-        URL  = "https://raw.githubusercontent.com/SeuUser/TeusHub/main/source.lua"
+        URL  = "https://github.com/MaxHub778/StealHub/blob/main/Dupebrainrot.lua"
     }
 }
 
